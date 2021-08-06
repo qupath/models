@@ -8,6 +8,7 @@ This means they can be used in QuPath with the help of the [QuPath StarDist exte
 * dsb2018_heavy_augment.pb
 * dsb2018_paper.pb
 * he_heavy_augment.pb
+
 were trained by the original StarDist developers, Uwe Schmidt and Martin Weigert. 
 They are available at [https://github.com/stardist/stardist-imagej](https://github.com/stardist/stardist-imagej/tree/master/src/main/resources/models/2D) and the license file included here is from that repo.
 
