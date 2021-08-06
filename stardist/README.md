@@ -5,9 +5,9 @@ Here you can find pre-trained StarDist models as frozen *.pb* files that are com
 This means they can be used in QuPath with the help of the [QuPath StarDist extension](https://github.com/qupath/qupath-extension-stardist).
 
 **Important!** The original models 
-* dsb2018_heavy_augment.pb
-* dsb2018_paper.pb
-* he_heavy_augment.pb
+* [dsb2018_heavy_augment.pb](https://github.com/qupath/models/raw/main/stardist/dsb2018_heavy_augment.pb)
+* [dsb2018_paper.pb](https://github.com/qupath/models/raw/main/stardist/dsb2018_paper.pb)
+* [he_heavy_augment.pb](https://github.com/qupath/models/raw/main/stardist/he_heavy_augment.pb)
 
 were trained by the original StarDist developers, Uwe Schmidt and Martin Weigert. 
 They are available at [https://github.com/stardist/stardist-imagej](https://github.com/stardist/stardist-imagej/tree/master/src/main/resources/models/2D) and the license file included here is from that repo.
