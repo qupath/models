@@ -9,7 +9,7 @@ This means they can be used in QuPath via the [QuPath StarDist extension](https:
 The converted model files are
 * [dsb2018_heavy_augment.pb](https://github.com/qupath/models/raw/main/stardist/dsb2018_heavy_augment.pb) - single channel
 * [dsb2018_paper.pb](https://github.com/qupath/models/raw/main/stardist/dsb2018_paper.pb) - single channel
-* [he_heavy_augment.pb](https://github.com/qupath/models/raw/main/stardist/he_heavy_augment.pb) - RGB images
+* [he_heavy_augment.pb](https://github.com/qupath/models/raw/main/stardist/he_heavy_augment.pb) - RGB images, primarily H&E.
 
 
 ## Credit & reuse
